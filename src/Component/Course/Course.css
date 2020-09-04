@@ -1,0 +1,17 @@
+.course{
+    display: flex;
+    margin-bottom: 30px;
+}
+.product-img img{ 
+    width:240px;
+    height: 150px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.content{
+    margin-left: 15px;
+}
+.content h4{
+    color:blue;
+    font-weight: 400;
+}
